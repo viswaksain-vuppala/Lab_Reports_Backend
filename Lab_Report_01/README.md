@@ -95,10 +95,10 @@ The screenshots in this folder were supplied by the student and show the browser
 3. Save any additional screenshots you capture in this folder.
 4. The submitted home-page, about-route, time-route, and not-found screenshots are saved in the folder:
 
-- Home page: ![Screenshot](./screenshots/about.png)
-- About page: ![Screenshot](./Lab_Report_01/screenshots/about.png)
-- Time page: ![Screenshot](./Lab_Report_01/screenshots/time.png)
-- 404 response: ![Screenshot](./Lab_Report_01/screenshots/not-found.png)
+- Home page: ![Screenshot](./screenshots/home.png)
+- About page: ![Screenshot](./screenshots/about.png)
+- Time page: ![Screenshot](./screenshots/time.png)
+- 404 response: ![Screenshot](./screenshots/not-found.png)
 
 
 
