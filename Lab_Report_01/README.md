@@ -4,7 +4,7 @@
 
 - Name: V.Viswak Sain
 - Registration number:252U1R9171
-- Section: S-26
+- Section: CSE-GEN-AI-2C (S-26) 
 - Course: Backend Development Fundamentals
 - Lab Number: 01
 ## Deployment
