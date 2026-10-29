@@ -9,7 +9,7 @@
 - Lab Number: 01
 ## Deployment
 
-- Live deployment URL: 
+- Live deployment URL: https://lab-report-backend-viswak.vercel.app/
 
 ## Project objective
 
