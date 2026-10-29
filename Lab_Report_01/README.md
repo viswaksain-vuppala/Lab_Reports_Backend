@@ -2,9 +2,12 @@
 
 ## Student information
 
-- **Name:** V.Viswak Sain
-- **Registration number:** 252U1R9171
-- **Section:** S-26
+- Name: 
+- Registration number:252U1R9171
+- Section: S-26
+## Deployment
+
+- Live deployment URL: 
 
 ## Project objective
 
@@ -92,22 +95,18 @@ The screenshots in this folder were supplied by the student and show the browser
 3. Save any additional screenshots you capture in this folder.
 4. The submitted home-page, about-route, time-route, and not-found screenshots are saved in the folder:
 
-- Home page: `screenshots/home.png`
-- About page: `screenshots/about.png`
-- Time page: `screenshots/time.png`
-- 404 response: `screenshots/not-found.png`
+- Home page: ![Screenshot](./)
+- About page: ![Screenshot](./screenshots/about.png)
+- Time page: ![Screenshot](./screenshots/time.png)
+- 404 response: ![Screenshot](./screenshots/not-found.png)
 
-The not-found screenshot shows the response page. To capture the HTTP status code too, follow the Chrome Developer Tools steps above and save a separate screenshot with the Network request's **Status Code** visible.
 
-## Deployment
 
-- **Live deployment URL:** [Add your deployed application URL here]
-
-The app uses `process.env.PORT` when a hosting provider supplies it and falls back to port 3000 for local use. It also binds to `0.0.0.0` in hosted environments so the server remains reachable. This project has not been deployed by these instructions.
+The app uses `process.env.PORT` when a hosting provider supplies it and falls back to port 3000 for local use. This project has not been deployed by these instructions.
 
 ## Notes: problems faced and solutions
 
 Record any issues you encounter and how you resolved them. For example:
 
-- **Problem:** [Describe the problem.]
-- **Solution:** [Describe what fixed it.]
+- Problem: There was an problem in deployment in render
+- Solution: changed the provider to vercel now its running fine
