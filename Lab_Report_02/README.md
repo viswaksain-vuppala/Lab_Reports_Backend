@@ -12,7 +12,7 @@
 
 ## Live Deployment
 
-**Link:** (https://bdflabreport02-viswak.vercel.app/)
+**Live Link:** https://bdflabreport02-viswak.vercel.app/
 
 ## Objective
 
