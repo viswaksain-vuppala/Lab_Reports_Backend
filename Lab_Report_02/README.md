@@ -12,7 +12,7 @@
 
 ## Live Deployment
 
-**Status:** https://bdf-labs-2-y3jd.onrender.com
+**Link:** (https://bdflabreport02-viswak.vercel.app/)
 
 ## Objective
 
